@@ -1,0 +1,32 @@
+{
+  "name": "serverchan",
+  "version": "1.0.0",
+  "description": "serverchan the programmer message by wechat,see sc.ftqq.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RambleRainbow/serverchan.git"
+  },
+  "keywords": [
+    "serverchan",
+    "wechat",
+    "programmer"
+  ],
+  "author": "RambleRainbow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RambleRainbow/serverchan/issues"
+  },
+  "homepage": "https://github.com/RambleRainbow/serverchan#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "moment": "^2.21.0",
+    "should": "^13.2.1"
+  }
+}
