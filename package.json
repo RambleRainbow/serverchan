@@ -1,6 +1,6 @@
 {
-  "name": "serverchan",
-  "version": "1.0.0",
+  "name": "ww-serverchan",
+  "version": "1.0.1",
   "description": "serverchan the programmer message by wechat,see sc.ftqq.com",
   "main": "index.js",
   "scripts": {
